@@ -5,7 +5,7 @@
 # S2 = OVAL        #
 # S3 = PLUS SIGN   #
 # ---------------- #
-#WHEN BOOTED START BY CLICKING ANY SHAPES #
+# WHEN BOOTED START BY CLICKING ANY SHAPES #
 
 require 'ruby-processing'
 class ProcessArtist < Processing::App
